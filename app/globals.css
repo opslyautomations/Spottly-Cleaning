@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-slate-50 text-slate-800 antialiased;
+    font-size: 16px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-slate-900;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-block bg-brand-blue text-white font-semibold px-6 py-3 rounded-lg hover:bg-brand-blue-dark transition-colors duration-200 min-h-[48px] flex items-center justify-center;
+  }
+
+  .btn-secondary {
+    @apply inline-block border-2 border-brand-blue text-brand-blue font-semibold px-6 py-3 rounded-lg hover:bg-brand-blue hover:text-white transition-colors duration-200 min-h-[48px] flex items-center justify-center;
+  }
+
+  .btn-white {
+    @apply inline-block bg-white text-brand-blue font-semibold px-6 py-3 rounded-lg hover:bg-slate-100 transition-colors duration-200 min-h-[48px] flex items-center justify-center;
+  }
+
+  .section-heading {
+    @apply text-3xl md:text-4xl font-bold text-slate-900;
+  }
+
+  .section-subheading {
+    @apply text-lg text-slate-600 mt-3;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-slate-100 p-6;
+  }
+
+  .prose-content h2 {
+    @apply text-2xl font-bold text-slate-900 mt-10 mb-4;
+  }
+
+  .prose-content h3 {
+    @apply text-xl font-semibold text-slate-800 mt-6 mb-3;
+  }
+
+  .prose-content p {
+    @apply text-slate-700 leading-relaxed mb-4;
+  }
+
+  .prose-content ul {
+    @apply list-disc list-inside space-y-2 text-slate-700 mb-4 pl-2;
+  }
+
+  .prose-content a {
+    @apply text-brand-blue hover:underline font-medium;
+  }
+}

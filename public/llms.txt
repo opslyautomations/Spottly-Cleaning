@@ -1,0 +1,42 @@
+# Spottly
+> Spottly is a residential house cleaning service for LA's Westside and South Bay, known for cleaning the spots other services miss using safe, low-toxicity, family- and pet-friendly products.
+
+## Contact
+- Phone: (310) 963-2302
+- Email: spottlyservices@gmail.com
+- Hours: By appointment — 7 days a week
+- Service area: LA Westside & South Bay (Los Angeles County, CA) — mobile, no storefront
+- Website: https://spottly.com
+
+## Services
+- [Recurring Cleaning](https://spottly.com/services/recurring-cleaning): Weekly, biweekly, or monthly maintenance cleaning that holds your home at a clean baseline.
+- [Deep Clean (Spottly Clean)](https://spottly.com/services/deep-cleaning): Top-to-bottom reset — degreasing, descaling, baseboards, behind appliances, and oven & fridge interiors included.
+- [Move-In / Move-Out Cleaning](https://spottly.com/services/move-in-move-out-cleaning): Empty-home, inspection-ready clean (inside cabinets and appliances) to protect your deposit.
+- [Custom Cleaning](https://spottly.com/services/custom-cleaning): One-off tasks and add-ons outside the standard plans — quoted to your space.
+
+## Service Areas
+- [Culver City](https://spottly.com/locations/culver-city): Studio and tech households; mid-century homes and downtown rentals.
+- [Mar Vista](https://spottly.com/locations/mar-vista): Mid-century single-family homes north and south of Venice Blvd.
+- [Palms](https://spottly.com/locations/palms): Apartment-dense; fast move-in/move-out turnovers and renter upkeep.
+- [Playa del Rey](https://spottly.com/locations/playa-del-rey): Coastal homes near the bluffs and Del Rey Lagoon — salt air and sand.
+- [Playa Vista](https://spottly.com/locations/playa-vista): Modern Silicon Beach condos — move-in cleans and recurring upkeep.
+- [Marina del Rey](https://spottly.com/locations/marina-del-rey): Waterfront condos; harbor humidity and rental turnovers.
+- [Westchester](https://spottly.com/locations/westchester): Near LAX — airline-crew schedules, LMU rentals, single-family homes.
+- [Santa Monica](https://spottly.com/locations/santa-monica): Dense beach-city rentals and condos; marine-layer humidity.
+- [Venice](https://spottly.com/locations/venice-beach): Canals, Abbot Kinney, heavy short-term-rental turnover.
+- [El Segundo](https://spottly.com/locations/el-segundo): Aerospace and corporate professionals in a small beach city.
+- [Manhattan Beach](https://spottly.com/locations/manhattan-beach): Premium single-family homes; Sand, Tree, and Hill sections.
+- [Redondo Beach](https://spottly.com/locations/redondo-beach): Mixed homes and condos from Riviera Village to King Harbor.
+- [Torrance](https://spottly.com/locations/torrance): Family suburbia at scale; recurring upkeep and deep cleans.
+- [Hawthorne](https://spottly.com/locations/hawthorne): SpaceX-anchored; apartments, turnovers, and shift-worker schedules.
+- [Gardena](https://spottly.com/locations/gardena): Diverse, mixed housing; recurring upkeep and move cleans.
+
+## Company
+- [About](https://spottly.com/about): Four years of detail-obsessed cleaning, San Diego to LA; safe products.
+- [Reviews](https://spottly.com/reviews): What Spottly clients say.
+- [Gallery](https://spottly.com/gallery): Recent cleaning work.
+- [Specials](https://spottly.com/specials): Recurring-service discount.
+- [Contact](https://spottly.com/contact): Get a free quote.
+
+## Blog
+- [Spottly Blog](https://spottly.com/blog): House cleaning guides for LA's Westside & South Bay — frequency, deep vs standard, move-out and deposit guides, coastal-home care, and city-specific tips.
