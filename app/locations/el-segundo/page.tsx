@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in El Segundo, CA | Spottly',
-  description: 'House cleaning in El Segundo—aerospace and corporate professionals in a small-town beach city south of LAX. Recurring upkeep and move cleans by Spottly. Book now.',
+  description: 'House cleaning in El Segundo — professionals in a small-town beach city south of LAX. Recurring and move-out cleaning by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/el-segundo' },
   openGraph: {
     title: 'House Cleaning in El Segundo, CA | Spottly',

@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'House Cleaning Specials & Offers | Spottly',
-  description: 'Save on Spottly\'s house cleaning with a recurring service plan — weekly, biweekly, or monthly. Reach out for current discount details. Serving LA\'s Westside & South Bay.',
+  description: 'Save on house cleaning with a Spottly recurring plan. Weekly, biweekly, and monthly options for LA Westside and South Bay homes.',
   alternates: { canonical: 'https://spottly.com/specials' },
   openGraph: {
     title: 'House Cleaning Specials & Offers | Spottly',

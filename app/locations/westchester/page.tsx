@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Westchester, CA | Spottly',
-  description: 'House cleaning in Westchester near LAX—single-family homes, LMU student rentals, and airline-crew schedules. Recurring and move-out cleaning by Spottly. Book now.',
+  description: 'House cleaning in Westchester near LAX — single-family homes and airline-crew schedules. Recurring and move-out cleaning by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/westchester' },
   openGraph: {
     title: 'House Cleaning in Westchester, CA | Spottly',

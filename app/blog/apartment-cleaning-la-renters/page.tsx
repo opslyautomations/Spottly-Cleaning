@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Apartment Cleaning in LA: A Guide for Renters',
-  description: "Renting in Los Angeles comes with specific cleaning considerations — from lease requirements to deposit protection. Here's what LA renters actually need to know.",
+  description: "Renting in LA comes with specific cleaning considerations — from lease requirements to deposit protection. What LA renters need to know.",
   alternates: { canonical: 'https://spottly.com/blog/apartment-cleaning-la-renters' },
   openGraph: { title: 'Apartment Cleaning in LA: A Guide for Renters', description: "Lease requirements, deposit protection, and cleaning frequency for LA renters.", url: 'https://spottly.com/blog/apartment-cleaning-la-renters', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Apartment Cleaning in LA for Renters' }] },
   twitter: { card: 'summary_large_image', title: 'Apartment Cleaning in LA: A Guide for Renters', description: "Lease requirements, deposit protection, and cleaning frequency for LA renters.", images: ['https://spottly.com/og'] },

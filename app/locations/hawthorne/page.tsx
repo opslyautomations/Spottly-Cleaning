@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Hawthorne, CA | Spottly',
-  description: 'House cleaning in Hawthorne—the SpaceX-anchored South Bay city of apartments and working households. Move-out turnovers and recurring upkeep by Spottly. Book now.',
+  description: 'House cleaning in Hawthorne — South Bay apartments and working households near SpaceX. Move-out and recurring cleaning by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/hawthorne' },
   openGraph: {
     title: 'House Cleaning in Hawthorne, CA | Spottly',

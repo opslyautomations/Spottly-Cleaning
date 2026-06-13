@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Manhattan Beach, CA | Spottly',
-  description: 'House cleaning in Manhattan Beach—premium single-family homes in the Sand, Tree, and Hill sections where salt air meets high standards. Deep & recurring by Spottly.',
+  description: 'House cleaning in Manhattan Beach — Sand, Tree, and Hill sections where salt air meets high standards. Deep and recurring cleans by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/manhattan-beach' },
   openGraph: {
     title: 'House Cleaning in Manhattan Beach, CA | Spottly',

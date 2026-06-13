@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Why Beach-Area Homes Need More Cleaning',
-  description: "Salt air, sand, and the marine layer do real damage to surfaces over time. Here's what coastal homeowners in Playa del Rey, Marina del Rey, and Manhattan Beach actually deal with.",
+  description: "Salt air, sand, and the marine layer do real damage to surfaces over time. What coastal homeowners in LA actually deal with.",
   alternates: { canonical: 'https://spottly.com/blog/coastal-home-cleaning-salt-air' },
   openGraph: { title: 'Why Beach-Area Homes Need More Cleaning', description: "Salt air, sand, and marine-layer humidity do real work on coastal homes. Here's what that means for cleaning.", url: 'https://spottly.com/blog/coastal-home-cleaning-salt-air', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Why Beach-Area Homes Need More Cleaning' }] },
   twitter: { card: 'summary_large_image', title: 'Why Beach-Area Homes Need More Cleaning', description: "Salt air, sand, and marine-layer humidity do real work on coastal homes.", images: ['https://spottly.com/og'] },

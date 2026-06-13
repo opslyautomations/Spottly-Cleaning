@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Redondo Beach, CA | Spottly',
-  description: 'House cleaning in Redondo Beach—single-family homes and condos from Riviera Village to King Harbor, all near the coast. Recurring and deep cleans by Spottly. Book now.',
+  description: 'House cleaning in Redondo Beach — homes and condos from Riviera Village to King Harbor near the coast. Recurring and deep cleans by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/redondo-beach' },
   openGraph: {
     title: 'House Cleaning in Redondo Beach, CA | Spottly',

@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Family House Cleaning in Torrance',
-  description: "Torrance is one of the South Bay's most family-oriented cities. Here's what professional house cleaning looks like for Torrance families and why weekly or biweekly service is the standard for active households.",
+  description: "Torrance is one of the South Bay's most family-oriented cities. What professional house cleaning looks like for active Torrance households.",
   alternates: { canonical: 'https://spottly.com/blog/family-house-cleaning-torrance' },
   openGraph: { title: 'Family House Cleaning in Torrance', description: "Torrance is the South Bay's most family-oriented city. Here's what professional cleaning looks like for Torrance households.", url: 'https://spottly.com/blog/family-house-cleaning-torrance', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Family House Cleaning in Torrance' }] },
   twitter: { card: 'summary_large_image', title: 'Family House Cleaning in Torrance', description: "Torrance is the South Bay's most family-oriented city. Here's what professional cleaning looks like for Torrance households.", images: ['https://spottly.com/og'] },

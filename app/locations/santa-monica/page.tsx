@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Santa Monica, CA | Spottly',
-  description: 'House cleaning in Santa Monica—dense beach-city rentals, condos, and marine-layer humidity from Ocean Park to Sunset Park. Recurring & move-out cleans by Spottly.',
+  description: 'House cleaning in Santa Monica — beach-city rentals, condos, and marine-layer humidity from Ocean Park to Sunset Park. Book Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/santa-monica' },
   openGraph: {
     title: 'House Cleaning in Santa Monica, CA | Spottly',
