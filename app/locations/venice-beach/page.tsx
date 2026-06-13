@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Venice, CA | Spottly',
-  description: 'House cleaning in Venice — eclectic homes, the canals, and a heavy short-term-rental market off Abbot Kinney. Book Spottly.',
+  description: 'House cleaning in Venice — eclectic homes, the canals, and a heavy short-term-rental market off Abbot Kinney. Recurring and turnover cleans by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/venice-beach' },
   openGraph: {
     title: 'House Cleaning in Venice, CA | Spottly',

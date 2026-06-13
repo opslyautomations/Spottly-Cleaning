@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Marina del Rey, CA | Spottly',
-  description: 'House cleaning in Marina del Rey — waterfront condos and apartments with harbor humidity. Recurring, deep, and turnover cleans by Spottly.',
+  description: 'House cleaning in Marina del Rey — waterfront condos and apartments with harbor humidity. Recurring, deep, and vacation rental turnover cleans by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/marina-del-rey' },
   openGraph: {
     title: 'House Cleaning in Marina del Rey, CA | Spottly',

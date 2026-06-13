@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'A Move-Out Cleaning Checklist for LA Renters',
-  description: "Room-by-room checklist for a move-out clean that meets California landlord inspection standards and protects your security deposit.",
+  description: "Room-by-room move-out cleaning checklist for LA renters. Covers what California landlords inspect and what you need done before the final walk-through.",
   alternates: { canonical: 'https://spottly.com/blog/move-out-cleaning-checklist-la' },
   openGraph: { title: 'A Move-Out Cleaning Checklist for LA Renters', description: "Room-by-room checklist for a move-out clean that meets California inspection standards.", url: 'https://spottly.com/blog/move-out-cleaning-checklist-la', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Move-Out Cleaning Checklist LA' }] },
   twitter: { card: 'summary_large_image', title: 'A Move-Out Cleaning Checklist for LA Renters', description: "Room-by-room checklist for a move-out clean that meets California inspection standards.", images: ['https://spottly.com/og'] },

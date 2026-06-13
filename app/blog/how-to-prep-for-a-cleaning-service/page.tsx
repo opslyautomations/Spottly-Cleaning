@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'How to Prep Your Home Before the Cleaners Arrive',
-  description: "A little prep means the team spends their time cleaning, not tidying. Here's what to do — and what you can safely ignore.",
+  description: "A little prep means the team spends their time cleaning, not tidying. Here's what actually helps before the cleaners arrive — and what you can safely skip.",
   alternates: { canonical: 'https://spottly.com/blog/how-to-prep-for-a-cleaning-service' },
   openGraph: { title: 'How to Prep Your Home Before the Cleaners Arrive', description: "Here's what to do before the cleaning team arrives — and what you can ignore.", url: 'https://spottly.com/blog/how-to-prep-for-a-cleaning-service', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'How to Prep Before the Cleaners Arrive' }] },
   twitter: { card: 'summary_large_image', title: 'How to Prep Your Home Before the Cleaners Arrive', description: "Here's what to do before the cleaning team arrives.", images: ['https://spottly.com/og'] },

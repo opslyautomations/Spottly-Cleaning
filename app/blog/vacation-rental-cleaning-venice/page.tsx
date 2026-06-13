@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Vacation Rental Cleaning in Venice Beach',
-  description: "Venice Beach is one of LA's most active short-term rental markets. What vacation rental cleaning looks like here.",
+  description: "Venice Beach is one of LA's most active short-term rental markets. What vacation rental turnover cleaning and between-guest resets look like here.",
   alternates: { canonical: 'https://spottly.com/blog/vacation-rental-cleaning-venice' },
   openGraph: { title: 'Vacation Rental Cleaning in Venice Beach', description: "Venice is one of LA's most active short-term rental markets. Here's what vacation rental turnovers involve.", url: 'https://spottly.com/blog/vacation-rental-cleaning-venice', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Vacation Rental Cleaning in Venice Beach' }] },
   twitter: { card: 'summary_large_image', title: 'Vacation Rental Cleaning in Venice Beach', description: "Venice is one of LA's most active short-term rental markets. Here's what vacation rental turnovers involve.", images: ['https://spottly.com/og'] },

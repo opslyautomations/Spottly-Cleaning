@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'House Cleaning for Busy LA Professionals',
-  description: "When work runs long and weekends disappear, a recurring cleaning plan is the thing that keeps your home from quietly falling apart.",
+  description: "When work runs long and weekends disappear, recurring cleaning keeps your home from falling apart. A practical guide for busy LA professionals managing it all.",
   alternates: { canonical: 'https://spottly.com/blog/house-cleaning-busy-la-professionals' },
   openGraph: { title: 'House Cleaning for Busy LA Professionals', description: "When work runs long and weekends disappear, recurring cleaning keeps your home from falling apart.", url: 'https://spottly.com/blog/house-cleaning-busy-la-professionals', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning for Busy LA Professionals' }] },
   twitter: { card: 'summary_large_image', title: 'House Cleaning for Busy LA Professionals', description: "When work runs long and weekends disappear, recurring cleaning keeps your home from falling apart.", images: ['https://spottly.com/og'] },

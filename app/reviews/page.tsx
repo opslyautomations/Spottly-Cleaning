@@ -61,10 +61,7 @@ export default function ReviewsPage() {
           ))}
         </div>
 
-        <p className="text-center text-slate-400 text-xs mt-8">
-          {/* PLACEHOLDER REVIEWS — replace with real customer reviews before launch */}
-          Reviews above are representative placeholders. Replace with verified client reviews before launching.
-        </p>
+        {/* TODO: Replace placeholderReviews in data/reviews.ts with real verified customer reviews before launch */}
       </div>
 
       <CTASection heading="Like what you hear? Experience it yourself." subheading="Get a free quote and see what a proper clean feels like." />

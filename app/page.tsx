@@ -49,7 +49,7 @@ const southBay = [
 
 const localBusinessSchema = {
   '@context': 'https://schema.org',
-  '@type': 'HousePainter',
+  '@type': 'LocalBusiness',
   '@id': 'https://spottly.com/#business',
   name: 'Spottly',
   description: 'Residential house cleaning service for LA\'s Westside and South Bay. Recurring, deep, and move-out cleaning with safe, low-toxicity products.',

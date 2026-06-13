@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Spottly Blog | House Cleaning Tips for LA',
-  description: 'House cleaning guides for the LA Westside and South Bay. How often to clean, deep vs. standard, move-out prep, and more.',
+  description: 'House cleaning guides, tips, and service breakdowns for the LA Westside and South Bay. Deep clean vs. standard, move-out prep, recurring advice, and more.',
   alternates: { canonical: 'https://spottly.com/blog' },
   openGraph: {
     title: 'Spottly Blog | House Cleaning Tips for LA',

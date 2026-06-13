@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Gardena, CA | Spottly',
-  description: 'House cleaning in Gardena — a diverse South Bay city of homes and apartments from Old Town to Moneta. Recurring cleans by Spottly.',
+  description: 'House cleaning in Gardena — a diverse South Bay city of homes and apartments from Old Town to Moneta. Recurring, deep, and move-out cleans by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/gardena' },
   openGraph: {
     title: 'House Cleaning in Gardena, CA | Spottly',

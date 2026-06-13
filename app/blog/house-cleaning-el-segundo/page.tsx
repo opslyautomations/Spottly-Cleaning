@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in El Segundo',
-  description: "El Segundo is a tight-knit South Bay community with a strong homeowner base. What house cleaning looks like in El Segundo.",
+  description: "El Segundo is a tight-knit South Bay community with a strong homeowner base near LAX. What professional house cleaning looks like in this small-town city.",
   alternates: { canonical: 'https://spottly.com/blog/house-cleaning-el-segundo' },
   openGraph: { title: 'House Cleaning in El Segundo', description: "El Segundo is a tight-knit South Bay community. Here's what house cleaning looks like here.", url: 'https://spottly.com/blog/house-cleaning-el-segundo', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in El Segundo' }] },
   twitter: { card: 'summary_large_image', title: 'House Cleaning in El Segundo', description: "El Segundo is a tight-knit South Bay community. Here's what house cleaning looks like here.", images: ['https://spottly.com/og'] },

@@ -76,10 +76,7 @@ export default function GalleryPage() {
           ))}
         </div>
 
-        <p className="text-center text-slate-400 text-xs mt-8">
-          {/* PLACEHOLDER — replace with real job photos before launch */}
-          Photo placeholders shown above. Real before/after photos to be added.
-        </p>
+        {/* TODO: Replace placeholder grid above with real job photos using next/image before launch */}
       </div>
 
       <CTASection heading="Want results like these in your home?" subheading="Get a free quote and we'll get started." />

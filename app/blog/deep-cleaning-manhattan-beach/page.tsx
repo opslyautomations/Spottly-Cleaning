@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Deep Cleaning in Manhattan Beach',
-  description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community.",
+  description: "Manhattan Beach homes — Sand Section, Tree Section, and Hill — have high standards. Here's what a professional deep clean looks like in this community.",
   alternates: { canonical: 'https://spottly.com/blog/deep-cleaning-manhattan-beach' },
   openGraph: { title: 'Deep Cleaning in Manhattan Beach', description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community.", url: 'https://spottly.com/blog/deep-cleaning-manhattan-beach', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Deep Cleaning in Manhattan Beach' }] },
   twitter: { card: 'summary_large_image', title: 'Deep Cleaning in Manhattan Beach', description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community.", images: ['https://spottly.com/og'] },

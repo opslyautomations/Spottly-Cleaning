@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Do Low-Toxicity Cleaning Products Actually Work?',
-  description: "The short answer: yes, when used correctly. Here's what 'low-toxicity' actually means, why Spottly uses them, and where the limits are.",
+  description: "The short answer: yes, when used correctly. Here's what low-toxicity actually means, why Spottly uses these products, and where the real limits are.",
   alternates: { canonical: 'https://spottly.com/blog/low-toxicity-cleaning-products' },
   openGraph: { title: 'Do Low-Toxicity Cleaning Products Actually Work?', description: "Yes, when used correctly. Here's what low-toxicity means and why it matters.", url: 'https://spottly.com/blog/low-toxicity-cleaning-products', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Do Low-Toxicity Cleaning Products Actually Work?' }] },
   twitter: { card: 'summary_large_image', title: 'Do Low-Toxicity Cleaning Products Actually Work?', description: "Yes, when used correctly. Here's what low-toxicity means.", images: ['https://spottly.com/og'] },

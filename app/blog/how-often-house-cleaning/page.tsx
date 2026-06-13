@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'How Often Should You Get Your House Cleaned?',
-  description: 'The right cleaning frequency depends on your household. A practical guide to weekly, biweekly, and monthly cleaning for LA homes.',
+  description: 'The right cleaning frequency depends on your household size, pets, and schedule. A practical guide to weekly, biweekly, and monthly cleaning for LA homes.',
   alternates: { canonical: 'https://spottly.com/blog/how-often-house-cleaning' },
   openGraph: {
     title: 'How Often Should You Get Your House Cleaned?',

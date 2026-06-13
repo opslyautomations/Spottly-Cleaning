@@ -25,7 +25,6 @@ export const metadata: Metadata = {
 
 const crumbs = [
   { label: 'Home', href: '/' },
-  { label: 'Services', href: '/services/custom-cleaning' },
   { label: 'Custom Cleaning' },
 ]
 

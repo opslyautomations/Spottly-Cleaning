@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: 'Recurring House Cleaning in Culver City',
-  description: "Culver City's tech and entertainment workforce drives demand for recurring house cleaning. Here's what it looks like.",
+  description: "Culver City's tech and entertainment workforce drives demand for recurring house cleaning. What to expect from weekly and biweekly service in this area.",
   alternates: { canonical: 'https://spottly.com/blog/recurring-house-cleaning-culver-city' },
   openGraph: { title: 'Recurring House Cleaning in Culver City', description: "Culver City's tech workforce drives demand for recurring house cleaning. Here's what it covers.", url: 'https://spottly.com/blog/recurring-house-cleaning-culver-city', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Recurring House Cleaning in Culver City' }] },
   twitter: { card: 'summary_large_image', title: 'Recurring House Cleaning in Culver City', description: "Culver City's tech workforce drives demand for recurring house cleaning. Here's what it covers.", images: ['https://spottly.com/og'] },

@@ -142,7 +142,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: 'recurring-house-cleaning-culver-city',
-    title: 'Recurring House Cleaning in Culver City: What to Expect',
+    title: 'Recurring House Cleaning in Culver City',
     excerpt: 'Studio commutes, tech hours, and zero free weekends — here\'s how recurring cleaning works for Culver City\'s busy households.',
     category: 'Location Guide',
     publishDate: '2026-01-07',
@@ -152,7 +152,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: 'vacation-rental-cleaning-venice',
-    title: 'Vacation-Rental Turnover Cleaning in Venice',
+    title: 'Vacation Rental Cleaning in Venice Beach',
     excerpt: 'Between-guest resets off Abbot Kinney — what a proper Venice vacation-rental turnover looks like and why the details matter.',
     category: 'Location Guide',
     publishDate: '2026-01-14',
@@ -172,7 +172,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: 'house-cleaning-el-segundo',
-    title: 'House Cleaning Around an Aerospace Schedule in El Segundo',
+    title: 'House Cleaning in El Segundo',
     excerpt: 'Long hours, rotating schedules, and corporate relocations — how recurring cleaning works for El Segundo\'s aerospace and corporate workforce.',
     category: 'Location Guide',
     publishDate: '2026-01-28',
@@ -182,7 +182,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: 'family-house-cleaning-torrance',
-    title: 'Family House Cleaning in Torrance: Recurring Plans That Work',
+    title: 'Family House Cleaning in Torrance',
     excerpt: 'Dual-income households, kids, pets, and a big house — here\'s how Torrance families keep up with recurring cleaning plans that actually fit their lives.',
     category: 'Location Guide',
     publishDate: '2026-02-04',

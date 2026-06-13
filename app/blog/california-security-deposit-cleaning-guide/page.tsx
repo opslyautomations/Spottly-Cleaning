@@ -6,7 +6,7 @@ import Script from 'next/script'
 
 export const metadata: Metadata = {
   title: "California Security Deposit Rules: A Renter's Cleaning Guide",
-  description: "California law gives your landlord 21 days and one specific standard. Understanding it is the fastest way to protect your deposit.",
+  description: "California law gives your landlord 21 days and one specific cleaning standard after you move out. Understanding it is the fastest way to protect your deposit.",
   alternates: { canonical: 'https://spottly.com/blog/california-security-deposit-cleaning-guide' },
   openGraph: { title: "California Security Deposit Rules: A Renter's Cleaning Guide", description: "California law gives your landlord 21 days and one specific standard. Here's what that means for your deposit.", url: 'https://spottly.com/blog/california-security-deposit-cleaning-guide', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: "California Security Deposit Cleaning Guide" }] },
   twitter: { card: 'summary_large_image', title: "California Security Deposit Rules: A Renter's Cleaning Guide", description: "California law gives your landlord 21 days and one specific standard.", images: ['https://spottly.com/og'] },

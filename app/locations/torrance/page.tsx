@@ -4,7 +4,7 @@ import LocationPage from '@/components/LocationPage'
 
 export const metadata: Metadata = {
   title: 'House Cleaning in Torrance, CA | Spottly',
-  description: 'House cleaning in Torrance — family homes across Hollywood Riviera, Southwood, and Old Torrance. Recurring and deep cleans by Spottly.',
+  description: 'House cleaning in Torrance — family homes across Hollywood Riviera, Southwood, and Old Torrance. Recurring, deep, and move-out cleans by Spottly.',
   alternates: { canonical: 'https://spottly.com/locations/torrance' },
   openGraph: {
     title: 'House Cleaning in Torrance, CA | Spottly',
