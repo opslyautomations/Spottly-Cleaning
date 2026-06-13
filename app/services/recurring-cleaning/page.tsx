@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     title: 'Recurring & Standard House Cleaning | Spottly',
     description: 'Keep your home clean with Spottly\'s weekly, biweekly, or monthly recurring service across LA\'s Westside and South Bay.',
     url: 'https://spottly.com/services/recurring-cleaning',
-    images: [{ url: 'https://spottly.com/og/recurring-cleaning.png', width: 1200, height: 630, alt: 'Spottly Recurring House Cleaning' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Recurring House Cleaning' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Recurring & Standard House Cleaning | Spottly',
     description: 'Keep your home clean with Spottly\'s weekly, biweekly, or monthly recurring service across LA\'s Westside and South Bay.',
-    images: ['https://spottly.com/og/recurring-cleaning.png'],
+    images: ['https://spottly.com/og'],
   },
 }
 

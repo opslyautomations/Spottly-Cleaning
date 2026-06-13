@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Culver City, CA | Spottly',
     description: 'House cleaning in Culver City for busy studio and tech professionals—recurring, deep, and move-out cleaning across Downtown, Fox Hills & beyond.',
     url: 'https://spottly.com/locations/culver-city',
-    images: [{ url: 'https://spottly.com/og/culver-city.png', width: 1200, height: 630, alt: 'House Cleaning in Culver City' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Culver City' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Culver City, CA | Spottly', description: 'House cleaning in Culver City for busy studio and tech professionals.', images: ['https://spottly.com/og/culver-city.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Culver City, CA | Spottly', description: 'House cleaning in Culver City for busy studio and tech professionals.', images: ['https://spottly.com/og'] },
 }
 
 export default function CulverCityPage() {

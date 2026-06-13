@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Gardena, CA | Spottly',
     description: 'House cleaning in Gardena—a diverse South Bay city of single-family homes and apartments from Old Town to Moneta.',
     url: 'https://spottly.com/locations/gardena',
-    images: [{ url: 'https://spottly.com/og/gardena.png', width: 1200, height: 630, alt: 'House Cleaning in Gardena' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Gardena' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Gardena, CA | Spottly', description: 'House cleaning in Gardena—a diverse South Bay city of homes and apartments.', images: ['https://spottly.com/og/gardena.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Gardena, CA | Spottly', description: 'House cleaning in Gardena—a diverse South Bay city of homes and apartments.', images: ['https://spottly.com/og'] },
 }
 
 export default function GardenaPage() {

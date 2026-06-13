@@ -12,13 +12,13 @@ export const metadata: Metadata = {
     title: 'Customer Reviews | Spottly House Cleaning LA',
     description: 'See what Spottly clients across LA\'s Westside and South Bay say about our house cleaning service.',
     url: 'https://spottly.com/reviews',
-    images: [{ url: 'https://spottly.com/og/reviews.png', width: 1200, height: 630, alt: 'Spottly Client Reviews' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Client Reviews' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Customer Reviews | Spottly House Cleaning LA',
     description: 'See what Spottly clients across LA\'s Westside and South Bay say about our house cleaning service.',
-    images: ['https://spottly.com/og/reviews.png'],
+    images: ['https://spottly.com/og'],
   },
 }
 

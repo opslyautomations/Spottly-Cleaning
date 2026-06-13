@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: "California Security Deposit Rules: A Renter's Cleaning Guide",
   description: "California law gives your landlord 21 days and one specific standard. Understanding it is the fastest way to protect your deposit.",
   alternates: { canonical: 'https://spottly.com/blog/california-security-deposit-cleaning-guide' },
-  openGraph: { title: "California Security Deposit Rules: A Renter's Cleaning Guide", description: "California law gives your landlord 21 days and one specific standard. Here's what that means for your deposit.", url: 'https://spottly.com/blog/california-security-deposit-cleaning-guide', type: 'article', images: [{ url: 'https://spottly.com/og/blog-deposit.png', width: 1200, height: 630, alt: "California Security Deposit Cleaning Guide" }] },
-  twitter: { card: 'summary_large_image', title: "California Security Deposit Rules: A Renter's Cleaning Guide", description: "California law gives your landlord 21 days and one specific standard.", images: ['https://spottly.com/og/blog-deposit.png'] },
+  openGraph: { title: "California Security Deposit Rules: A Renter's Cleaning Guide", description: "California law gives your landlord 21 days and one specific standard. Here's what that means for your deposit.", url: 'https://spottly.com/blog/california-security-deposit-cleaning-guide', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: "California Security Deposit Cleaning Guide" }] },
+  twitter: { card: 'summary_large_image', title: "California Security Deposit Rules: A Renter's Cleaning Guide", description: "California law gives your landlord 21 days and one specific standard.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: "California Security Deposit Rules: A Renter's Cleaning Guide" }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: "California Security Deposit Rules: A Renter's Cleaning Guide", author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-03', dateModified: '2025-12-03', url: 'https://spottly.com/blog/california-security-deposit-cleaning-guide', image: 'https://spottly.com/og/blog-deposit.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: "California Security Deposit Rules: A Renter's Cleaning Guide", author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-03', dateModified: '2025-12-03', url: 'https://spottly.com/blog/california-security-deposit-cleaning-guide', image: 'https://spottly.com/og' }
 
 export default function DepositGuidePage() {
   return (

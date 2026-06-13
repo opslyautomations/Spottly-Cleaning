@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Apartment Cleaning in LA: A Guide for Renters',
   description: "Renting in Los Angeles comes with specific cleaning considerations — from lease requirements to deposit protection. Here's what LA renters actually need to know.",
   alternates: { canonical: 'https://spottly.com/blog/apartment-cleaning-la-renters' },
-  openGraph: { title: 'Apartment Cleaning in LA: A Guide for Renters', description: "Lease requirements, deposit protection, and cleaning frequency for LA renters.", url: 'https://spottly.com/blog/apartment-cleaning-la-renters', type: 'article', images: [{ url: 'https://spottly.com/og/blog-apartment.png', width: 1200, height: 630, alt: 'Apartment Cleaning in LA for Renters' }] },
-  twitter: { card: 'summary_large_image', title: 'Apartment Cleaning in LA: A Guide for Renters', description: "Lease requirements, deposit protection, and cleaning frequency for LA renters.", images: ['https://spottly.com/og/blog-apartment.png'] },
+  openGraph: { title: 'Apartment Cleaning in LA: A Guide for Renters', description: "Lease requirements, deposit protection, and cleaning frequency for LA renters.", url: 'https://spottly.com/blog/apartment-cleaning-la-renters', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Apartment Cleaning in LA for Renters' }] },
+  twitter: { card: 'summary_large_image', title: 'Apartment Cleaning in LA: A Guide for Renters', description: "Lease requirements, deposit protection, and cleaning frequency for LA renters.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Apartment Cleaning in LA: A Guide for Renters' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Apartment Cleaning in LA: A Guide for Renters', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-10', dateModified: '2025-12-10', url: 'https://spottly.com/blog/apartment-cleaning-la-renters', image: 'https://spottly.com/og/blog-apartment.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Apartment Cleaning in LA: A Guide for Renters', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-10', dateModified: '2025-12-10', url: 'https://spottly.com/blog/apartment-cleaning-la-renters', image: 'https://spottly.com/og' }
 
 export default function ApartmentCleaningPage() {
   return (

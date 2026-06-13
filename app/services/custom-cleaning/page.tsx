@@ -12,13 +12,13 @@ export const metadata: Metadata = {
     title: 'Custom Cleaning Projects | Spottly',
     description: "Need something outside our standard plans? Tell Spottly what your space needs and we'll build a custom cleaning quote.",
     url: 'https://spottly.com/services/custom-cleaning',
-    images: [{ url: 'https://spottly.com/og/custom-cleaning.png', width: 1200, height: 630, alt: 'Spottly Custom Cleaning' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Custom Cleaning' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Custom Cleaning Projects | Spottly',
     description: "Need something outside our standard plans? Tell Spottly what your space needs and we'll build a custom cleaning quote.",
-    images: ['https://spottly.com/og/custom-cleaning.png'],
+    images: ['https://spottly.com/og'],
   },
   robots: { index: true, follow: true },
 }

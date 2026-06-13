@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Playa del Rey, CA | Spottly',
     description: 'House cleaning in Playa del Rey—coastal homes near the bluffs and Del Rey Lagoon where salt air and sand mean more upkeep.',
     url: 'https://spottly.com/locations/playa-del-rey',
-    images: [{ url: 'https://spottly.com/og/playa-del-rey.png', width: 1200, height: 630, alt: 'House Cleaning in Playa del Rey' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Playa del Rey' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Playa del Rey, CA | Spottly', description: 'House cleaning in Playa del Rey—coastal homes near the bluffs and Del Rey Lagoon.', images: ['https://spottly.com/og/playa-del-rey.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Playa del Rey, CA | Spottly', description: 'House cleaning in Playa del Rey—coastal homes near the bluffs and Del Rey Lagoon.', images: ['https://spottly.com/og'] },
 }
 
 export default function PlayaDelReyPage() {

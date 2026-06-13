@@ -13,9 +13,9 @@ export const metadata: Metadata = {
     description: 'The right cleaning frequency depends on your household. A practical guide to weekly, biweekly, and monthly cleaning.',
     url: 'https://spottly.com/blog/how-often-house-cleaning',
     type: 'article',
-    images: [{ url: 'https://spottly.com/og/blog-how-often.png', width: 1200, height: 630, alt: 'How Often Should You Get Your House Cleaned?' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'How Often Should You Get Your House Cleaned?' }],
   },
-  twitter: { card: 'summary_large_image', title: 'How Often Should You Get Your House Cleaned?', description: 'A practical guide to weekly, biweekly, and monthly cleaning.', images: ['https://spottly.com/og/blog-how-often.png'] },
+  twitter: { card: 'summary_large_image', title: 'How Often Should You Get Your House Cleaned?', description: 'A practical guide to weekly, biweekly, and monthly cleaning.', images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [
@@ -34,7 +34,7 @@ const blogPostingSchema = {
   datePublished: '2025-10-01',
   dateModified: '2025-10-01',
   url: 'https://spottly.com/blog/how-often-house-cleaning',
-  image: 'https://spottly.com/og/blog-how-often.png',
+  image: 'https://spottly.com/og',
 }
 
 export default function HowOftenPage() {

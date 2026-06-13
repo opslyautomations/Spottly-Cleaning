@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Deep Cleaning in Manhattan Beach',
   description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community and why Sand Section homes in particular need more from their cleaning service.",
   alternates: { canonical: 'https://spottly.com/blog/deep-cleaning-manhattan-beach' },
-  openGraph: { title: 'Deep Cleaning in Manhattan Beach', description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community.", url: 'https://spottly.com/blog/deep-cleaning-manhattan-beach', type: 'article', images: [{ url: 'https://spottly.com/og/blog-mb-deep.png', width: 1200, height: 630, alt: 'Deep Cleaning in Manhattan Beach' }] },
-  twitter: { card: 'summary_large_image', title: 'Deep Cleaning in Manhattan Beach', description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community.", images: ['https://spottly.com/og/blog-mb-deep.png'] },
+  openGraph: { title: 'Deep Cleaning in Manhattan Beach', description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community.", url: 'https://spottly.com/blog/deep-cleaning-manhattan-beach', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Deep Cleaning in Manhattan Beach' }] },
+  twitter: { card: 'summary_large_image', title: 'Deep Cleaning in Manhattan Beach', description: "Manhattan Beach homes have high standards. Here's what a deep clean looks like in this South Bay community.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Deep Cleaning in Manhattan Beach' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Deep Cleaning in Manhattan Beach', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-21', dateModified: '2026-01-21', url: 'https://spottly.com/blog/deep-cleaning-manhattan-beach', image: 'https://spottly.com/og/blog-mb-deep.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Deep Cleaning in Manhattan Beach', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-21', dateModified: '2026-01-21', url: 'https://spottly.com/blog/deep-cleaning-manhattan-beach', image: 'https://spottly.com/og' }
 
 export default function DeepCleanManhattanBeachPage() {
   return (

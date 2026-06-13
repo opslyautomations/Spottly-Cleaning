@@ -8,21 +8,21 @@ import { placeholderReviews } from '@/data/reviews'
 import Script from 'next/script'
 
 export const metadata: Metadata = {
-  title: 'House Cleaning in LA\'s Westside & South Bay | Spottly',
-  description: 'Spottly is a residential house cleaning service across LA\'s Westside and South Bay. Recurring, deep, and move-out cleaning with safe, family-friendly products. Get a quote.',
+  title: 'House Cleaning for the LA Westside & South Bay | Spottly',
+  description: 'Residential house cleaning for the LA Westside and South Bay. Recurring, deep, and move-out cleaning with safe, family-friendly products. Get a quote.',
   alternates: { canonical: 'https://spottly.com' },
   openGraph: {
-    title: 'House Cleaning in LA\'s Westside & South Bay | Spottly',
-    description: 'Spottly is a residential house cleaning service across LA\'s Westside and South Bay. Recurring, deep, and move-out cleaning with safe, family-friendly products. Get a quote.',
+    title: 'House Cleaning for the LA Westside & South Bay | Spottly',
+    description: 'Residential house cleaning for the LA Westside and South Bay. Recurring, deep, and move-out cleaning with safe products.',
     url: 'https://spottly.com',
     type: 'website',
-    images: [{ url: 'https://spottly.com/og/home.png', width: 1200, height: 630, alt: 'Spottly — House Cleaning for LA\'s Westside & South Bay' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly - House Cleaning for the LA Westside and South Bay' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'House Cleaning in LA\'s Westside & South Bay | Spottly',
-    description: 'Spottly is a residential house cleaning service across LA\'s Westside and South Bay. Recurring, deep, and move-out cleaning with safe, family-friendly products.',
-    images: ['https://spottly.com/og/home.png'],
+    title: 'House Cleaning for the LA Westside & South Bay | Spottly',
+    description: 'Residential house cleaning for the LA Westside and South Bay. Recurring, deep, and move-out cleaning with safe products.',
+    images: ['https://spottly.com/og'],
   },
 }
 

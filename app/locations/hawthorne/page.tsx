@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Hawthorne, CA | Spottly',
     description: 'House cleaning in Hawthorne—the SpaceX-anchored South Bay city of apartments and working households.',
     url: 'https://spottly.com/locations/hawthorne',
-    images: [{ url: 'https://spottly.com/og/hawthorne.png', width: 1200, height: 630, alt: 'House Cleaning in Hawthorne' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Hawthorne' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Hawthorne, CA | Spottly', description: 'House cleaning in Hawthorne—the SpaceX-anchored South Bay city.', images: ['https://spottly.com/og/hawthorne.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Hawthorne, CA | Spottly', description: 'House cleaning in Hawthorne—the SpaceX-anchored South Bay city.', images: ['https://spottly.com/og'] },
 }
 
 export default function HawthornePage() {

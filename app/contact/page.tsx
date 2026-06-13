@@ -11,13 +11,13 @@ export const metadata: Metadata = {
     title: 'Contact Spottly | Get a Free House Cleaning Quote',
     description: 'Contact Spottly for a free house cleaning quote in LA\'s Westside and South Bay.',
     url: 'https://spottly.com/contact',
-    images: [{ url: 'https://spottly.com/og/contact.png', width: 1200, height: 630, alt: 'Contact Spottly' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Contact Spottly' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Contact Spottly | Get a Free House Cleaning Quote',
     description: 'Contact Spottly for a free house cleaning quote in LA\'s Westside and South Bay.',
-    images: ['https://spottly.com/og/contact.png'],
+    images: ['https://spottly.com/og'],
   },
 }
 

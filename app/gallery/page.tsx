@@ -11,13 +11,13 @@ export const metadata: Metadata = {
     title: 'Cleaning Gallery | Before & After Photos | Spottly',
     description: 'See Spottly\'s house cleaning work across LA\'s Westside and South Bay.',
     url: 'https://spottly.com/gallery',
-    images: [{ url: 'https://spottly.com/og/gallery.png', width: 1200, height: 630, alt: 'Spottly Cleaning Gallery' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Cleaning Gallery' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Cleaning Gallery | Before & After Photos | Spottly',
     description: 'See Spottly\'s house cleaning work across LA\'s Westside and South Bay.',
-    images: ['https://spottly.com/og/gallery.png'],
+    images: ['https://spottly.com/og'],
   },
 }
 

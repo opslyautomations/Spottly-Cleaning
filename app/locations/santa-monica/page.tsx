@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Santa Monica, CA | Spottly',
     description: 'House cleaning in Santa Monica—dense beach-city rentals, condos, and marine-layer humidity from Ocean Park to Sunset Park.',
     url: 'https://spottly.com/locations/santa-monica',
-    images: [{ url: 'https://spottly.com/og/santa-monica.png', width: 1200, height: 630, alt: 'House Cleaning in Santa Monica' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Santa Monica' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Santa Monica, CA | Spottly', description: 'House cleaning in Santa Monica—dense beach-city rentals and marine-layer humidity.', images: ['https://spottly.com/og/santa-monica.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Santa Monica, CA | Spottly', description: 'House cleaning in Santa Monica—dense beach-city rentals and marine-layer humidity.', images: ['https://spottly.com/og'] },
 }
 
 export default function SantaMonicaPage() {

@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Manhattan Beach, CA | Spottly',
     description: 'House cleaning in Manhattan Beach—premium single-family homes in the Sand, Tree, and Hill sections where salt air meets high standards.',
     url: 'https://spottly.com/locations/manhattan-beach',
-    images: [{ url: 'https://spottly.com/og/manhattan-beach.png', width: 1200, height: 630, alt: 'House Cleaning in Manhattan Beach' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Manhattan Beach' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Manhattan Beach, CA | Spottly', description: 'House cleaning in Manhattan Beach—premium Sand, Tree, and Hill section homes.', images: ['https://spottly.com/og/manhattan-beach.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Manhattan Beach, CA | Spottly', description: 'House cleaning in Manhattan Beach—premium Sand, Tree, and Hill section homes.', images: ['https://spottly.com/og'] },
 }
 
 export default function ManhattanBeachPage() {

@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Cleaning vs. Sanitizing vs. Disinfecting, Explained',
   description: "Three different things, and mixing them up means you're either doing too little or wasting effort. Here's what each actually means and when you need each one.",
   alternates: { canonical: 'https://spottly.com/blog/cleaning-sanitizing-disinfecting' },
-  openGraph: { title: 'Cleaning vs. Sanitizing vs. Disinfecting, Explained', description: "Three different things. Here's what each means and when you need each one.", url: 'https://spottly.com/blog/cleaning-sanitizing-disinfecting', type: 'article', images: [{ url: 'https://spottly.com/og/blog-csd.png', width: 1200, height: 630, alt: 'Cleaning vs Sanitizing vs Disinfecting' }] },
-  twitter: { card: 'summary_large_image', title: 'Cleaning vs. Sanitizing vs. Disinfecting, Explained', description: "Three different things. Here's what each means and when you need each one.", images: ['https://spottly.com/og/blog-csd.png'] },
+  openGraph: { title: 'Cleaning vs. Sanitizing vs. Disinfecting, Explained', description: "Three different things. Here's what each means and when you need each one.", url: 'https://spottly.com/blog/cleaning-sanitizing-disinfecting', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Cleaning vs Sanitizing vs Disinfecting' }] },
+  twitter: { card: 'summary_large_image', title: 'Cleaning vs. Sanitizing vs. Disinfecting, Explained', description: "Three different things. Here's what each means and when you need each one.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Cleaning vs. Sanitizing vs. Disinfecting' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Cleaning vs. Sanitizing vs. Disinfecting, Explained', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-10-22', dateModified: '2025-10-22', url: 'https://spottly.com/blog/cleaning-sanitizing-disinfecting', image: 'https://spottly.com/og/blog-csd.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Cleaning vs. Sanitizing vs. Disinfecting, Explained', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-10-22', dateModified: '2025-10-22', url: 'https://spottly.com/blog/cleaning-sanitizing-disinfecting', image: 'https://spottly.com/og' }
 
 export default function CSDPage() {
   return (

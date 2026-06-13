@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Why Beach-Area Homes Need More Cleaning',
   description: "Salt air, sand, and the marine layer do real damage to surfaces over time. Here's what coastal homeowners in Playa del Rey, Marina del Rey, and Manhattan Beach actually deal with.",
   alternates: { canonical: 'https://spottly.com/blog/coastal-home-cleaning-salt-air' },
-  openGraph: { title: 'Why Beach-Area Homes Need More Cleaning', description: "Salt air, sand, and marine-layer humidity do real work on coastal homes. Here's what that means for cleaning.", url: 'https://spottly.com/blog/coastal-home-cleaning-salt-air', type: 'article', images: [{ url: 'https://spottly.com/og/blog-coastal.png', width: 1200, height: 630, alt: 'Why Beach-Area Homes Need More Cleaning' }] },
-  twitter: { card: 'summary_large_image', title: 'Why Beach-Area Homes Need More Cleaning', description: "Salt air, sand, and marine-layer humidity do real work on coastal homes.", images: ['https://spottly.com/og/blog-coastal.png'] },
+  openGraph: { title: 'Why Beach-Area Homes Need More Cleaning', description: "Salt air, sand, and marine-layer humidity do real work on coastal homes. Here's what that means for cleaning.", url: 'https://spottly.com/blog/coastal-home-cleaning-salt-air', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Why Beach-Area Homes Need More Cleaning' }] },
+  twitter: { card: 'summary_large_image', title: 'Why Beach-Area Homes Need More Cleaning', description: "Salt air, sand, and marine-layer humidity do real work on coastal homes.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Why Beach-Area Homes Need More Cleaning' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Why Beach-Area Homes Need More Cleaning', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-19', dateModified: '2025-11-19', url: 'https://spottly.com/blog/coastal-home-cleaning-salt-air', image: 'https://spottly.com/og/blog-coastal.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Why Beach-Area Homes Need More Cleaning', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-19', dateModified: '2025-11-19', url: 'https://spottly.com/blog/coastal-home-cleaning-salt-air', image: 'https://spottly.com/og' }
 
 export default function CoastalCleaningPage() {
   return (

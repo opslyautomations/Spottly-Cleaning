@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   title: 'Deep Clean vs. Standard Clean: What\'s the Difference?',
   description: "They're not interchangeable. A standard clean maintains; a deep clean removes history. Here's what each covers and when to choose which.",
   alternates: { canonical: 'https://spottly.com/blog/deep-clean-vs-standard-clean' },
-  openGraph: { title: "Deep Clean vs. Standard Clean: What's the Difference?", description: "A standard clean maintains; a deep clean removes history. Here's what each covers.", url: 'https://spottly.com/blog/deep-clean-vs-standard-clean', type: 'article', images: [{ url: 'https://spottly.com/og/blog-deep-vs-standard.png', width: 1200, height: 630, alt: 'Deep Clean vs Standard Clean' }] },
-  twitter: { card: 'summary_large_image', title: "Deep Clean vs. Standard Clean: What's the Difference?", description: "A standard clean maintains; a deep clean removes history.", images: ['https://spottly.com/og/blog-deep-vs-standard.png'] },
+  openGraph: { title: "Deep Clean vs. Standard Clean: What's the Difference?", description: "A standard clean maintains; a deep clean removes history. Here's what each covers.", url: 'https://spottly.com/blog/deep-clean-vs-standard-clean', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Deep Clean vs Standard Clean' }] },
+  twitter: { card: 'summary_large_image', title: "Deep Clean vs. Standard Clean: What's the Difference?", description: "A standard clean maintains; a deep clean removes history.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [
@@ -27,7 +27,7 @@ const schema = {
   datePublished: '2025-10-08',
   dateModified: '2025-10-08',
   url: 'https://spottly.com/blog/deep-clean-vs-standard-clean',
-  image: 'https://spottly.com/og/blog-deep-vs-standard.png',
+  image: 'https://spottly.com/og',
 }
 
 export default function DeepVsStandardPage() {

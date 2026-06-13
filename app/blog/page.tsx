@@ -12,9 +12,9 @@ export const metadata: Metadata = {
     title: 'Spottly Blog | House Cleaning Tips for LA',
     description: 'House cleaning guides for LA\'s Westside & South Bay.',
     url: 'https://spottly.com/blog',
-    images: [{ url: 'https://spottly.com/og/blog.png', width: 1200, height: 630, alt: 'Spottly Blog' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Blog' }],
   },
-  twitter: { card: 'summary_large_image', title: 'Spottly Blog | House Cleaning Tips for LA', description: "House cleaning guides for LA's Westside & South Bay.", images: ['https://spottly.com/og/blog.png'] },
+  twitter: { card: 'summary_large_image', title: 'Spottly Blog | House Cleaning Tips for LA', description: "House cleaning guides for LA's Westside & South Bay.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [

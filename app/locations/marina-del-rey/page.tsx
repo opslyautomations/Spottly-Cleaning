@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Marina del Rey, CA | Spottly',
     description: 'House cleaning in Marina del Rey—waterfront condos and apartments where harbor humidity and rentals drive the work.',
     url: 'https://spottly.com/locations/marina-del-rey',
-    images: [{ url: 'https://spottly.com/og/marina-del-rey.png', width: 1200, height: 630, alt: 'House Cleaning in Marina del Rey' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Marina del Rey' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Marina del Rey, CA | Spottly', description: 'House cleaning in Marina del Rey—waterfront condos where harbor humidity drives the work.', images: ['https://spottly.com/og/marina-del-rey.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Marina del Rey, CA | Spottly', description: 'House cleaning in Marina del Rey—waterfront condos where harbor humidity drives the work.', images: ['https://spottly.com/og'] },
 }
 
 export default function MarinadelReyPage() {

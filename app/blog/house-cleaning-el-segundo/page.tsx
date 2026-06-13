@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'House Cleaning in El Segundo',
   description: "El Segundo is a tight-knit South Bay community with a strong homeowner base. Here's what house cleaning looks like in El Segundo and what residents actually need.",
   alternates: { canonical: 'https://spottly.com/blog/house-cleaning-el-segundo' },
-  openGraph: { title: 'House Cleaning in El Segundo', description: "El Segundo is a tight-knit South Bay community. Here's what house cleaning looks like here.", url: 'https://spottly.com/blog/house-cleaning-el-segundo', type: 'article', images: [{ url: 'https://spottly.com/og/blog-elsegundo.png', width: 1200, height: 630, alt: 'House Cleaning in El Segundo' }] },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in El Segundo', description: "El Segundo is a tight-knit South Bay community. Here's what house cleaning looks like here.", images: ['https://spottly.com/og/blog-elsegundo.png'] },
+  openGraph: { title: 'House Cleaning in El Segundo', description: "El Segundo is a tight-knit South Bay community. Here's what house cleaning looks like here.", url: 'https://spottly.com/blog/house-cleaning-el-segundo', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in El Segundo' }] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in El Segundo', description: "El Segundo is a tight-knit South Bay community. Here's what house cleaning looks like here.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'House Cleaning in El Segundo' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'House Cleaning in El Segundo', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-28', dateModified: '2026-01-28', url: 'https://spottly.com/blog/house-cleaning-el-segundo', image: 'https://spottly.com/og/blog-elsegundo.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'House Cleaning in El Segundo', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-28', dateModified: '2026-01-28', url: 'https://spottly.com/blog/house-cleaning-el-segundo', image: 'https://spottly.com/og' }
 
 export default function HouseCleaningElSegundoPage() {
   return (

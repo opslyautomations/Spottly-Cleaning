@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'How to Prep Your Home Before the Cleaners Arrive',
   description: "A little prep means the team spends their time cleaning, not tidying. Here's what to do — and what you can safely ignore.",
   alternates: { canonical: 'https://spottly.com/blog/how-to-prep-for-a-cleaning-service' },
-  openGraph: { title: 'How to Prep Your Home Before the Cleaners Arrive', description: "Here's what to do before the cleaning team arrives — and what you can ignore.", url: 'https://spottly.com/blog/how-to-prep-for-a-cleaning-service', type: 'article', images: [{ url: 'https://spottly.com/og/blog-prep.png', width: 1200, height: 630, alt: 'How to Prep Before the Cleaners Arrive' }] },
-  twitter: { card: 'summary_large_image', title: 'How to Prep Your Home Before the Cleaners Arrive', description: "Here's what to do before the cleaning team arrives.", images: ['https://spottly.com/og/blog-prep.png'] },
+  openGraph: { title: 'How to Prep Your Home Before the Cleaners Arrive', description: "Here's what to do before the cleaning team arrives — and what you can ignore.", url: 'https://spottly.com/blog/how-to-prep-for-a-cleaning-service', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'How to Prep Before the Cleaners Arrive' }] },
+  twitter: { card: 'summary_large_image', title: 'How to Prep Your Home Before the Cleaners Arrive', description: "Here's what to do before the cleaning team arrives.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'How to Prep Before the Cleaners Arrive' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'How to Prep Your Home Before the Cleaners Arrive', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-10-29', dateModified: '2025-10-29', url: 'https://spottly.com/blog/how-to-prep-for-a-cleaning-service', image: 'https://spottly.com/og/blog-prep.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'How to Prep Your Home Before the Cleaners Arrive', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-10-29', dateModified: '2025-10-29', url: 'https://spottly.com/blog/how-to-prep-for-a-cleaning-service', image: 'https://spottly.com/og' }
 
 export default function PrepPage() {
   return (

@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'A Move-Out Cleaning Checklist for LA Renters',
   description: "Room-by-room checklist for a move-out clean that meets California landlord inspection standards and protects your security deposit.",
   alternates: { canonical: 'https://spottly.com/blog/move-out-cleaning-checklist-la' },
-  openGraph: { title: 'A Move-Out Cleaning Checklist for LA Renters', description: "Room-by-room checklist for a move-out clean that meets California inspection standards.", url: 'https://spottly.com/blog/move-out-cleaning-checklist-la', type: 'article', images: [{ url: 'https://spottly.com/og/blog-checklist.png', width: 1200, height: 630, alt: 'Move-Out Cleaning Checklist LA' }] },
-  twitter: { card: 'summary_large_image', title: 'A Move-Out Cleaning Checklist for LA Renters', description: "Room-by-room checklist for a move-out clean that meets California inspection standards.", images: ['https://spottly.com/og/blog-checklist.png'] },
+  openGraph: { title: 'A Move-Out Cleaning Checklist for LA Renters', description: "Room-by-room checklist for a move-out clean that meets California inspection standards.", url: 'https://spottly.com/blog/move-out-cleaning-checklist-la', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Move-Out Cleaning Checklist LA' }] },
+  twitter: { card: 'summary_large_image', title: 'A Move-Out Cleaning Checklist for LA Renters', description: "Room-by-room checklist for a move-out clean that meets California inspection standards.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'A Move-Out Cleaning Checklist for LA Renters' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'A Move-Out Cleaning Checklist for LA Renters', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-17', dateModified: '2025-12-17', url: 'https://spottly.com/blog/move-out-cleaning-checklist-la', image: 'https://spottly.com/og/blog-checklist.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'A Move-Out Cleaning Checklist for LA Renters', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-17', dateModified: '2025-12-17', url: 'https://spottly.com/blog/move-out-cleaning-checklist-la', image: 'https://spottly.com/og' }
 
 export default function ChecklistPage() {
   return (

@@ -12,13 +12,13 @@ export const metadata: Metadata = {
     title: 'House Cleaning Specials & Offers | Spottly',
     description: 'Save on Spottly\'s house cleaning with a recurring service plan. Reach out for current discount details.',
     url: 'https://spottly.com/specials',
-    images: [{ url: 'https://spottly.com/og/specials.png', width: 1200, height: 630, alt: 'Spottly Specials & Offers' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Specials & Offers' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'House Cleaning Specials & Offers | Spottly',
     description: 'Save on Spottly\'s house cleaning with a recurring service plan. Reach out for current discount details.',
-    images: ['https://spottly.com/og/specials.png'],
+    images: ['https://spottly.com/og'],
   },
   robots: { index: true, follow: true },
 }

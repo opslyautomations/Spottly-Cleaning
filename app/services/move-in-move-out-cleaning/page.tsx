@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     title: 'Move-In/Move-Out Cleaning Service | Spottly',
     description: "Spottly's move-in/move-out cleaning gets empty homes inspection-ready—inside cabinets, appliances, and more—to protect your deposit.",
     url: 'https://spottly.com/services/move-in-move-out-cleaning',
-    images: [{ url: 'https://spottly.com/og/move-cleaning.png', width: 1200, height: 630, alt: 'Spottly Move-In / Move-Out Cleaning' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Move-In / Move-Out Cleaning' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Move-In/Move-Out Cleaning Service | Spottly',
     description: "Spottly's move-in/move-out cleaning gets empty homes inspection-ready—inside cabinets, appliances, and more—to protect your deposit.",
-    images: ['https://spottly.com/og/move-cleaning.png'],
+    images: ['https://spottly.com/og'],
   },
 }
 

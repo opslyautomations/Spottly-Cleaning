@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Do Low-Toxicity Cleaning Products Actually Work?',
   description: "The short answer: yes, when used correctly. Here's what 'low-toxicity' actually means, why Spottly uses them, and where the limits are.",
   alternates: { canonical: 'https://spottly.com/blog/low-toxicity-cleaning-products' },
-  openGraph: { title: 'Do Low-Toxicity Cleaning Products Actually Work?', description: "Yes, when used correctly. Here's what low-toxicity means and why it matters.", url: 'https://spottly.com/blog/low-toxicity-cleaning-products', type: 'article', images: [{ url: 'https://spottly.com/og/blog-low-tox.png', width: 1200, height: 630, alt: 'Do Low-Toxicity Cleaning Products Actually Work?' }] },
-  twitter: { card: 'summary_large_image', title: 'Do Low-Toxicity Cleaning Products Actually Work?', description: "Yes, when used correctly. Here's what low-toxicity means.", images: ['https://spottly.com/og/blog-low-tox.png'] },
+  openGraph: { title: 'Do Low-Toxicity Cleaning Products Actually Work?', description: "Yes, when used correctly. Here's what low-toxicity means and why it matters.", url: 'https://spottly.com/blog/low-toxicity-cleaning-products', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Do Low-Toxicity Cleaning Products Actually Work?' }] },
+  twitter: { card: 'summary_large_image', title: 'Do Low-Toxicity Cleaning Products Actually Work?', description: "Yes, when used correctly. Here's what low-toxicity means.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Do Low-Toxicity Cleaning Products Actually Work?' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Do Low-Toxicity Cleaning Products Actually Work?', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-05', dateModified: '2025-11-05', url: 'https://spottly.com/blog/low-toxicity-cleaning-products', image: 'https://spottly.com/og/blog-low-tox.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Do Low-Toxicity Cleaning Products Actually Work?', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-05', dateModified: '2025-11-05', url: 'https://spottly.com/blog/low-toxicity-cleaning-products', image: 'https://spottly.com/og' }
 
 export default function LowToxPage() {
   return (

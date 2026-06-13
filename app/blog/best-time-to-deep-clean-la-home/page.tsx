@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'The Best Time of Year to Deep Clean Your LA Home',
   description: "LA doesn't have seasons the way the rest of the country does, but there are still better and worse times for a deep clean — here's how to time it.",
   alternates: { canonical: 'https://spottly.com/blog/best-time-to-deep-clean-la-home' },
-  openGraph: { title: 'The Best Time of Year to Deep Clean Your LA Home', description: "LA doesn't have traditional seasons, but there are still better times for a deep clean.", url: 'https://spottly.com/blog/best-time-to-deep-clean-la-home', type: 'article', images: [{ url: 'https://spottly.com/og/blog-best-time.png', width: 1200, height: 630, alt: 'Best Time to Deep Clean Your LA Home' }] },
-  twitter: { card: 'summary_large_image', title: 'The Best Time of Year to Deep Clean Your LA Home', description: "LA doesn't have traditional seasons, but there are still better times for a deep clean.", images: ['https://spottly.com/og/blog-best-time.png'] },
+  openGraph: { title: 'The Best Time of Year to Deep Clean Your LA Home', description: "LA doesn't have traditional seasons, but there are still better times for a deep clean.", url: 'https://spottly.com/blog/best-time-to-deep-clean-la-home', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Best Time to Deep Clean Your LA Home' }] },
+  twitter: { card: 'summary_large_image', title: 'The Best Time of Year to Deep Clean Your LA Home', description: "LA doesn't have traditional seasons, but there are still better times for a deep clean.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Best Time to Deep Clean Your LA Home' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'The Best Time of Year to Deep Clean Your LA Home', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-12', dateModified: '2025-11-12', url: 'https://spottly.com/blog/best-time-to-deep-clean-la-home', image: 'https://spottly.com/og/blog-best-time.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'The Best Time of Year to Deep Clean Your LA Home', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-12', dateModified: '2025-11-12', url: 'https://spottly.com/blog/best-time-to-deep-clean-la-home', image: 'https://spottly.com/og' }
 
 export default function BestTimePage() {
   return (

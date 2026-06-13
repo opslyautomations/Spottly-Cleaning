@@ -8,13 +8,13 @@ export const metadata: Metadata = {
   title: "What's Actually Included in a Move-Out Clean?",
   description: "Move-out cleans go further than any standard visit — inside cabinets, appliances, every surface. Here's the full scope and why it matters for your deposit.",
   alternates: { canonical: 'https://spottly.com/blog/what-is-included-in-a-move-out-clean' },
-  openGraph: { title: "What's Actually Included in a Move-Out Clean?", description: "Move-out cleans go further than any standard visit — inside cabinets, appliances, every surface.", url: 'https://spottly.com/blog/what-is-included-in-a-move-out-clean', type: 'article', images: [{ url: 'https://spottly.com/og/blog-move-out.png', width: 1200, height: 630, alt: "What's Included in a Move-Out Clean?" }] },
-  twitter: { card: 'summary_large_image', title: "What's Actually Included in a Move-Out Clean?", description: "The full scope of a move-out clean — and why it matters for your deposit.", images: ['https://spottly.com/og/blog-move-out.png'] },
+  openGraph: { title: "What's Actually Included in a Move-Out Clean?", description: "Move-out cleans go further than any standard visit — inside cabinets, appliances, every surface.", url: 'https://spottly.com/blog/what-is-included-in-a-move-out-clean', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: "What's Included in a Move-Out Clean?" }] },
+  twitter: { card: 'summary_large_image', title: "What's Actually Included in a Move-Out Clean?", description: "The full scope of a move-out clean — and why it matters for your deposit.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: "What's Actually Included in a Move-Out Clean?" }]
 
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: "What's Actually Included in a Move-Out Clean?", author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-10-15', dateModified: '2025-10-15', url: 'https://spottly.com/blog/what-is-included-in-a-move-out-clean', image: 'https://spottly.com/og/blog-move-out.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: "What's Actually Included in a Move-Out Clean?", author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-10-15', dateModified: '2025-10-15', url: 'https://spottly.com/blog/what-is-included-in-a-move-out-clean', image: 'https://spottly.com/og' }
 
 export default function MoveOutIncludedPage() {
   return (

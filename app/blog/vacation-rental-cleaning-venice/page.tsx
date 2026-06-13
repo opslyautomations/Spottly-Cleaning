@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Vacation Rental Cleaning in Venice Beach',
   description: "Venice Beach is one of LA's most active short-term rental markets. Here's what vacation rental cleaning looks like in Venice and why turnovers are different from standard residential cleaning.",
   alternates: { canonical: 'https://spottly.com/blog/vacation-rental-cleaning-venice' },
-  openGraph: { title: 'Vacation Rental Cleaning in Venice Beach', description: "Venice is one of LA's most active short-term rental markets. Here's what vacation rental turnovers involve.", url: 'https://spottly.com/blog/vacation-rental-cleaning-venice', type: 'article', images: [{ url: 'https://spottly.com/og/blog-venice-vr.png', width: 1200, height: 630, alt: 'Vacation Rental Cleaning in Venice Beach' }] },
-  twitter: { card: 'summary_large_image', title: 'Vacation Rental Cleaning in Venice Beach', description: "Venice is one of LA's most active short-term rental markets. Here's what vacation rental turnovers involve.", images: ['https://spottly.com/og/blog-venice-vr.png'] },
+  openGraph: { title: 'Vacation Rental Cleaning in Venice Beach', description: "Venice is one of LA's most active short-term rental markets. Here's what vacation rental turnovers involve.", url: 'https://spottly.com/blog/vacation-rental-cleaning-venice', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Vacation Rental Cleaning in Venice Beach' }] },
+  twitter: { card: 'summary_large_image', title: 'Vacation Rental Cleaning in Venice Beach', description: "Venice is one of LA's most active short-term rental markets. Here's what vacation rental turnovers involve.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Vacation Rental Cleaning in Venice Beach' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Vacation Rental Cleaning in Venice Beach', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-14', dateModified: '2026-01-14', url: 'https://spottly.com/blog/vacation-rental-cleaning-venice', image: 'https://spottly.com/og/blog-venice-vr.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Vacation Rental Cleaning in Venice Beach', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-14', dateModified: '2026-01-14', url: 'https://spottly.com/blog/vacation-rental-cleaning-venice', image: 'https://spottly.com/og' }
 
 export default function VacationRentalVenicePage() {
   return (

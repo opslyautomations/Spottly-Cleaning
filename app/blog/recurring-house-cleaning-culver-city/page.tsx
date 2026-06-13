@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Recurring House Cleaning in Culver City',
   description: "Culver City's growing tech and entertainment workforce has made recurring house cleaning one of the most requested services in the area. Here's what it looks like.",
   alternates: { canonical: 'https://spottly.com/blog/recurring-house-cleaning-culver-city' },
-  openGraph: { title: 'Recurring House Cleaning in Culver City', description: "Culver City's tech workforce drives demand for recurring house cleaning. Here's what it covers.", url: 'https://spottly.com/blog/recurring-house-cleaning-culver-city', type: 'article', images: [{ url: 'https://spottly.com/og/blog-culver-recurring.png', width: 1200, height: 630, alt: 'Recurring House Cleaning in Culver City' }] },
-  twitter: { card: 'summary_large_image', title: 'Recurring House Cleaning in Culver City', description: "Culver City's tech workforce drives demand for recurring house cleaning. Here's what it covers.", images: ['https://spottly.com/og/blog-culver-recurring.png'] },
+  openGraph: { title: 'Recurring House Cleaning in Culver City', description: "Culver City's tech workforce drives demand for recurring house cleaning. Here's what it covers.", url: 'https://spottly.com/blog/recurring-house-cleaning-culver-city', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Recurring House Cleaning in Culver City' }] },
+  twitter: { card: 'summary_large_image', title: 'Recurring House Cleaning in Culver City', description: "Culver City's tech workforce drives demand for recurring house cleaning. Here's what it covers.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Recurring House Cleaning in Culver City' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Recurring House Cleaning in Culver City', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-07', dateModified: '2026-01-07', url: 'https://spottly.com/blog/recurring-house-cleaning-culver-city', image: 'https://spottly.com/og/blog-culver-recurring.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Recurring House Cleaning in Culver City', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-01-07', dateModified: '2026-01-07', url: 'https://spottly.com/blog/recurring-house-cleaning-culver-city', image: 'https://spottly.com/og' }
 
 export default function RecurringCulverCityPage() {
   return (

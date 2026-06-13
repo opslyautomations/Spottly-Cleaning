@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Torrance, CA | Spottly',
     description: 'House cleaning in Torrance—family single-family homes across Hollywood Riviera, Southwood, and Old Torrance.',
     url: 'https://spottly.com/locations/torrance',
-    images: [{ url: 'https://spottly.com/og/torrance.png', width: 1200, height: 630, alt: 'House Cleaning in Torrance' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Torrance' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Torrance, CA | Spottly', description: 'House cleaning in Torrance—family homes across Hollywood Riviera and Southwood.', images: ['https://spottly.com/og/torrance.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Torrance, CA | Spottly', description: 'House cleaning in Torrance—family homes across Hollywood Riviera and Southwood.', images: ['https://spottly.com/og'] },
 }
 
 export default function TorrancePage() {

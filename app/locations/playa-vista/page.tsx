@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Playa Vista, CA | Spottly',
     description: "House cleaning in Playa Vista—LA's modern Silicon Beach community of new condos and apartments.",
     url: 'https://spottly.com/locations/playa-vista',
-    images: [{ url: 'https://spottly.com/og/playa-vista.png', width: 1200, height: 630, alt: 'House Cleaning in Playa Vista' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Playa Vista' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Playa Vista, CA | Spottly', description: "House cleaning in Playa Vista—LA's modern Silicon Beach community.", images: ['https://spottly.com/og/playa-vista.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Playa Vista, CA | Spottly', description: "House cleaning in Playa Vista—LA's modern Silicon Beach community.", images: ['https://spottly.com/og'] },
 }
 
 export default function PlayaVistaPage() {

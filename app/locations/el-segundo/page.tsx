@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in El Segundo, CA | Spottly',
     description: 'House cleaning in El Segundo—aerospace and corporate professionals in a small-town beach city south of LAX.',
     url: 'https://spottly.com/locations/el-segundo',
-    images: [{ url: 'https://spottly.com/og/el-segundo.png', width: 1200, height: 630, alt: 'House Cleaning in El Segundo' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in El Segundo' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in El Segundo, CA | Spottly', description: 'House cleaning in El Segundo—aerospace and corporate professionals in a small beach city.', images: ['https://spottly.com/og/el-segundo.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in El Segundo, CA | Spottly', description: 'House cleaning in El Segundo—aerospace and corporate professionals in a small beach city.', images: ['https://spottly.com/og'] },
 }
 
 export default function ElSegundoPage() {

@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'House Cleaning for Busy LA Professionals',
   description: "When work runs long and weekends disappear, a recurring cleaning plan is the thing that keeps your home from quietly falling apart.",
   alternates: { canonical: 'https://spottly.com/blog/house-cleaning-busy-la-professionals' },
-  openGraph: { title: 'House Cleaning for Busy LA Professionals', description: "When work runs long and weekends disappear, recurring cleaning keeps your home from falling apart.", url: 'https://spottly.com/blog/house-cleaning-busy-la-professionals', type: 'article', images: [{ url: 'https://spottly.com/og/blog-professionals.png', width: 1200, height: 630, alt: 'House Cleaning for Busy LA Professionals' }] },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning for Busy LA Professionals', description: "When work runs long and weekends disappear, recurring cleaning keeps your home from falling apart.", images: ['https://spottly.com/og/blog-professionals.png'] },
+  openGraph: { title: 'House Cleaning for Busy LA Professionals', description: "When work runs long and weekends disappear, recurring cleaning keeps your home from falling apart.", url: 'https://spottly.com/blog/house-cleaning-busy-la-professionals', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning for Busy LA Professionals' }] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning for Busy LA Professionals', description: "When work runs long and weekends disappear, recurring cleaning keeps your home from falling apart.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'House Cleaning for Busy LA Professionals' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'House Cleaning for Busy LA Professionals', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-26', dateModified: '2025-11-26', url: 'https://spottly.com/blog/house-cleaning-busy-la-professionals', image: 'https://spottly.com/og/blog-professionals.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'House Cleaning for Busy LA Professionals', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-11-26', dateModified: '2025-11-26', url: 'https://spottly.com/blog/house-cleaning-busy-la-professionals', image: 'https://spottly.com/og' }
 
 export default function BusyProfessionalsPage() {
   return (

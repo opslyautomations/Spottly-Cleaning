@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     title: 'Deep House Cleaning Service | Spottly Clean',
     description: 'The Spottly Clean deep cleaning resets your home top to bottom—grease, soap scum, baseboards, and buildup standard visits miss.',
     url: 'https://spottly.com/services/deep-cleaning',
-    images: [{ url: 'https://spottly.com/og/deep-cleaning.png', width: 1200, height: 630, alt: 'Spottly Deep House Cleaning' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Spottly Deep House Cleaning' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Deep House Cleaning Service | Spottly Clean',
     description: 'The Spottly Clean deep cleaning resets your home top to bottom—grease, soap scum, baseboards, and buildup standard visits miss.',
-    images: ['https://spottly.com/og/deep-cleaning.png'],
+    images: ['https://spottly.com/og'],
   },
 }
 

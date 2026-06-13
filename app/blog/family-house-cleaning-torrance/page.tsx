@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Family House Cleaning in Torrance',
   description: "Torrance is one of the South Bay's most family-oriented cities. Here's what professional house cleaning looks like for Torrance families and why weekly or biweekly service is the standard for active households.",
   alternates: { canonical: 'https://spottly.com/blog/family-house-cleaning-torrance' },
-  openGraph: { title: 'Family House Cleaning in Torrance', description: "Torrance is the South Bay's most family-oriented city. Here's what professional cleaning looks like for Torrance households.", url: 'https://spottly.com/blog/family-house-cleaning-torrance', type: 'article', images: [{ url: 'https://spottly.com/og/blog-torrance-family.png', width: 1200, height: 630, alt: 'Family House Cleaning in Torrance' }] },
-  twitter: { card: 'summary_large_image', title: 'Family House Cleaning in Torrance', description: "Torrance is the South Bay's most family-oriented city. Here's what professional cleaning looks like for Torrance households.", images: ['https://spottly.com/og/blog-torrance-family.png'] },
+  openGraph: { title: 'Family House Cleaning in Torrance', description: "Torrance is the South Bay's most family-oriented city. Here's what professional cleaning looks like for Torrance households.", url: 'https://spottly.com/blog/family-house-cleaning-torrance', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Family House Cleaning in Torrance' }] },
+  twitter: { card: 'summary_large_image', title: 'Family House Cleaning in Torrance', description: "Torrance is the South Bay's most family-oriented city. Here's what professional cleaning looks like for Torrance households.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Family House Cleaning in Torrance' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Family House Cleaning in Torrance', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-02-04', dateModified: '2026-02-04', url: 'https://spottly.com/blog/family-house-cleaning-torrance', image: 'https://spottly.com/og/blog-torrance-family.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Family House Cleaning in Torrance', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2026-02-04', dateModified: '2026-02-04', url: 'https://spottly.com/blog/family-house-cleaning-torrance', image: 'https://spottly.com/og' }
 
 export default function FamilyCleaningTorrancePage() {
   return (

@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   title: 'Move-Out Cleaning in Palms, CA',
   description: "Palms has one of the densest renter populations in West LA. Here's what move-out cleaning looks like in Palms and what you need to get your deposit back.",
   alternates: { canonical: 'https://spottly.com/blog/move-out-cleaning-palms' },
-  openGraph: { title: 'Move-Out Cleaning in Palms, CA', description: "Palms is one of West LA's busiest rental markets. Here's what move-out cleaning looks like here.", url: 'https://spottly.com/blog/move-out-cleaning-palms', type: 'article', images: [{ url: 'https://spottly.com/og/blog-palms-moveout.png', width: 1200, height: 630, alt: 'Move-Out Cleaning in Palms CA' }] },
-  twitter: { card: 'summary_large_image', title: 'Move-Out Cleaning in Palms, CA', description: "Palms is one of West LA's busiest rental markets. Here's what move-out cleaning looks like here.", images: ['https://spottly.com/og/blog-palms-moveout.png'] },
+  openGraph: { title: 'Move-Out Cleaning in Palms, CA', description: "Palms is one of West LA's busiest rental markets. Here's what move-out cleaning looks like here.", url: 'https://spottly.com/blog/move-out-cleaning-palms', type: 'article', images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'Move-Out Cleaning in Palms CA' }] },
+  twitter: { card: 'summary_large_image', title: 'Move-Out Cleaning in Palms, CA', description: "Palms is one of West LA's busiest rental markets. Here's what move-out cleaning looks like here.", images: ['https://spottly.com/og'] },
 }
 
 const crumbs = [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog' }, { label: 'Move-Out Cleaning in Palms, CA' }]
-const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Move-Out Cleaning in Palms, CA', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-24', dateModified: '2025-12-24', url: 'https://spottly.com/blog/move-out-cleaning-palms', image: 'https://spottly.com/og/blog-palms-moveout.png' }
+const schema = { '@context': 'https://schema.org', '@type': 'BlogPosting', headline: 'Move-Out Cleaning in Palms, CA', author: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, publisher: { '@type': 'Organization', name: 'Spottly', url: 'https://spottly.com' }, datePublished: '2025-12-24', dateModified: '2025-12-24', url: 'https://spottly.com/blog/move-out-cleaning-palms', image: 'https://spottly.com/og' }
 
 export default function MoveOutPalmsPage() {
   return (

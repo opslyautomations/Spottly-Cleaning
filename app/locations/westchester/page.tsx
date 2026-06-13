@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Westchester, CA | Spottly',
     description: 'House cleaning in Westchester near LAX—single-family homes, LMU student rentals, and airline-crew schedules.',
     url: 'https://spottly.com/locations/westchester',
-    images: [{ url: 'https://spottly.com/og/westchester.png', width: 1200, height: 630, alt: 'House Cleaning in Westchester' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Westchester' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Westchester, CA | Spottly', description: 'House cleaning in Westchester near LAX—airline-crew schedules, LMU rentals, single-family homes.', images: ['https://spottly.com/og/westchester.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Westchester, CA | Spottly', description: 'House cleaning in Westchester near LAX—airline-crew schedules, LMU rentals, single-family homes.', images: ['https://spottly.com/og'] },
 }
 
 export default function WestchesterPage() {

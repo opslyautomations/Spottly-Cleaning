@@ -11,13 +11,13 @@ export const metadata: Metadata = {
     title: 'About Spottly | LA House Cleaning Done Right',
     description: 'Spottly brings four years of detail-obsessed house cleaning from San Diego to LA\'s Westside and South Bay—safe products, consistent results, no missed spots.',
     url: 'https://spottly.com/about',
-    images: [{ url: 'https://spottly.com/og/about.png', width: 1200, height: 630, alt: 'About Spottly — LA House Cleaning' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'About Spottly — LA House Cleaning' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'About Spottly | LA House Cleaning Done Right',
     description: 'Spottly brings four years of detail-obsessed house cleaning from San Diego to LA\'s Westside and South Bay—safe products, consistent results, no missed spots.',
-    images: ['https://spottly.com/og/about.png'],
+    images: ['https://spottly.com/og'],
   },
 }
 

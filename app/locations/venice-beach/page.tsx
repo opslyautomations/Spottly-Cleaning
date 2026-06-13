@@ -10,9 +10,9 @@ export const metadata: Metadata = {
     title: 'House Cleaning in Venice, CA | Spottly',
     description: 'House cleaning in Venice—eclectic older homes, the canals, and a heavy short-term-rental market off Abbot Kinney.',
     url: 'https://spottly.com/locations/venice-beach',
-    images: [{ url: 'https://spottly.com/og/venice-beach.png', width: 1200, height: 630, alt: 'House Cleaning in Venice' }],
+    images: [{ url: 'https://spottly.com/og', width: 1200, height: 630, alt: 'House Cleaning in Venice' }],
   },
-  twitter: { card: 'summary_large_image', title: 'House Cleaning in Venice, CA | Spottly', description: 'House cleaning in Venice—the canals, Abbot Kinney, and short-term-rental turnovers.', images: ['https://spottly.com/og/venice-beach.png'] },
+  twitter: { card: 'summary_large_image', title: 'House Cleaning in Venice, CA | Spottly', description: 'House cleaning in Venice—the canals, Abbot Kinney, and short-term-rental turnovers.', images: ['https://spottly.com/og'] },
 }
 
 export default function VeniceBeachPage() {
